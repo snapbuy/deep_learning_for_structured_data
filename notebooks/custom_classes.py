@@ -5,7 +5,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.base import TransformerMixin
 from sklearn.base import BaseEstimator
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler, StandardScaler
-
+import numpy as np
 
 
 
